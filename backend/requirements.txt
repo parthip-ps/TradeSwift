@@ -4,8 +4,10 @@ flask-bcrypt==1.0.1
 flask-jwt-extended==4.6.0
 flask-cors==4.0.1
 psycopg2-binary==2.9.9
-yfinance==0.2.40
+yfinance==0.2.54 
 numpy==1.26.4
 pandas==2.2.2
 gunicorn==22.0.0
 sqlalchemy==2.0.36
+requests==2.32.3
+requests-cache==1.2.1
